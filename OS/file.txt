@@ -1,0 +1,12 @@
+DatagramSockets are Java's mechanism for network 
+communication via UDP instead of TCP. Java provides 
+DatagramSocket to communicate over UDP instead of TCP. 
+It is also built on top of IP. DatagramSockets can be 
+used to both send 
+and receive packets over the Internet
+DatagramSockets are Java's mechanism for network 
+communication via UDP instead of TCP. Java provides 
+DatagramSocket to communicate over UDP instead of TCP. 
+It is also built on top of IP. DatagramSockets can be 
+used to both send 
+and receive packets over the Internet
